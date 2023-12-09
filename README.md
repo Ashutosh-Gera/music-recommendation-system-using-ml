@@ -26,7 +26,7 @@ Our project grooves to the beat of creating a Music Recommendation System using 
 
 ## Methodology/Blueprint 🚀
 
-![Blueprint](Asstes/Methodology.png)
+![Blueprint](Assets/Methodology.png)
 
 ## Abstract 📝
 
@@ -84,7 +84,7 @@ We generate playlists using cluster similarity and feature similarity with conte
 
 We present the top recommended songs for a given input song using different algorithms. There is a partial overlap between recommended songs, indicating the effectiveness of our algorithms in suggesting songs with high feature similarity.
 
-![Results](Asstes/Results.png)
+![Results](Assets/Results.png)
 
 ## Conclusion 🎉
 
